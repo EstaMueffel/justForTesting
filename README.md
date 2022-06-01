@@ -18,6 +18,8 @@ i use this repository for my **first steps** at *github*
 
 [ ] learn to use git
 
+[ ] learn to use projects
+
 ## i try to learn GitHub by using this book
 thanks to the book *GitHub Eine praktische Einführung - Von den ersten Schritten bis zu eigenen GitHub Actions* by Anke Lederer
 
