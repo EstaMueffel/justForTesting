@@ -2,9 +2,9 @@
 i use this repository for my **first steps** at *github*
 
 ## ToDo's:
-[ ] writte Readme.md
+[x] write Readme.md
 
-[ ] learn to commit
+[x] learn to commit
 
 [ ] learn to use issues
 
