@@ -6,13 +6,13 @@ i use this repository for my **first steps** at *github*
 
 [x] learn to commit
 
-[ ] learn to use issues
+[x] learn to use issues
 
-[ ] learn to use branches
+[x] learn to use branches
 
-[ ] learn to use pull-requests
+[x] learn to use pull-requests
 
-[ ] learn to use merges
+[x] learn to use merges
 
 [ ] write a wiki
 
